@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    #连接池
+#    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/kss_web_db?serverTimezone=GMT%2b8&useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: root
+# mybatis-plus的配置
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #打印sql日志
+#    default-enum-type-handler: org.apache.ibatis.type.EnumOrdinalTypeHandler
+  mapper-locations: classpath*:/mapper/*.xml #mapper的xml文件存放的位置
+  global-config:
+    db-config:
+      logic-not-delete-value: 0 #逻辑删除 默认为删除为0
+      logic-delete-value: 1
+      id-type: assign_id  #说明id类型是雪花算法  全局配置的
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/_02_SpringBoot_static/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-lam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-lam/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabitmq-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabitmq-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot1/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

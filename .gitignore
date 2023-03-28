@@ -1,0 +1,7 @@
+# 项目排除路径
+/_02_SpringBoot_static/target/
+/java-lam/target/
+/rabitmq-01/target/
+/SanGeng_Stream_Projectt/_01_lambda/target/
+/SanGeng_Stream_Projectt/_02_stream/target/
+/springboot1/target/

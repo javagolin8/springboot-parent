@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/_02_SpringBoot_static/pom.xml" />
+        <option value="$PROJECT_DIR$/../_02_SpringBoot_static/pom.xml" />
+        <option value="$PROJECT_DIR$/java-lam/pom.xml" />
+        <option value="$PROJECT_DIR$/SanGeng_Stream_Projectt/_01_lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/SanGeng_Stream_Projectt/_02_stream/pom.xml" />
+        <option value="$PROJECT_DIR$/rabitmq-01/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/_02_SpringBoot_static/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
